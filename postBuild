@@ -1,2 +1,2 @@
-jupyter contrib nbextension install
+conda activate notebook
 pip install .
