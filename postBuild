@@ -1,1 +1,1 @@
-conda activate notebook && pip install .
+conda init bash && conda activate notebook && pip install .
