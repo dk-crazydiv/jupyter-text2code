@@ -1,3 +1,5 @@
 pip install jupyter_nbextensions_configurator
 jupyter nbextensions_configurator enable
 pip install .
+jupyter nbextension enable mopp/main
+jupyter serverextension enable mopp.mopp_serverextension
